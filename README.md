@@ -4,9 +4,6 @@ A team effort by Kasinath R, Alen Alias Cheriyan, and Job Joseph, made as part o
 # Over-the-top Compliment Generator 🎯
 
 
-Compliment cover.png
-
-
 ## Basic Details
 ### Team Name: Fake!?
 
